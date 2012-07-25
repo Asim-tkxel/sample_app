@@ -237,3 +237,10 @@ aside {
     margin-bottom: 5px;
   }
 }
+/* Micropost character countdown */
+
+.remaining, .countdown {
+  display: inline;
+  color: $grayLight;
+  float: right;
+}
